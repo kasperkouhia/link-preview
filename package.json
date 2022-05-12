@@ -1,0 +1,7 @@
+{
+  "name": "link-preview",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^14.0.0"
+  }
+}
